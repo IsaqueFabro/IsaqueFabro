@@ -1,7 +1,5 @@
 👩‍💻 Computer engineering 5/10
 
-👩‍💻 Software engineering 4/10
-
 📚 English C2 Proficiency
 
 <div align="center">
